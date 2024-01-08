@@ -1,16 +1,16 @@
-# OpenLine Terminals (OLTs) Repository
+# 🌐 OpenLine Terminals (OLTs) Repository
 
 Bem-vindo ao repositório dedicado a Optical Line Terminals (OLTs)!
 
-## Sobre OLTs
+## ℹ️ Sobre OLTs
 
 As Optical Line Terminals (OLTs) são componentes essenciais em redes de fibra óptica, desempenhando um papel crucial na transmissão de dados em alta velocidade e confiabilidade. Este repositório visa fornecer uma compilação abrangente de informações, documentação e recursos relacionados a diversas marcas e modelos de OLTs.
 
-## Estrutura do Repositório
+## 📂 Estrutura do Repositório
 
 O repositório está organizado em pastas, cada uma correspondendo a uma marca específica de OLT. Dentro de cada pasta, você encontrará informações detalhadas sobre diferentes modelos dessa marca.
 
-### Lista de Marcas
+### 🏷️ Lista de Marcas
 
 1. **Huawei**
     - [Huawei OLT-5000](./huawei/olt-5000/README.md)
@@ -28,7 +28,7 @@ O repositório está organizado em pastas, cada uma correspondendo a uma marca e
     - [Cisco ME 4600 Series](./cisco/me-4600/README.md)
     - [Cisco ME 4900 Series](./cisco/me-4900/README.md)
 
-## Como Contribuir
+## 🤝 Como Contribuir
 
 Se você tem conhecimento sobre OLTs ou possui informações adicionais sobre modelos específicos, ficaríamos gratos por suas contribuições. Siga estas etapas para contribuir:
 
@@ -38,7 +38,7 @@ Se você tem conhecimento sobre OLTs ou possui informações adicionais sobre mo
 4. Envie suas alterações: `git push origin feature/nova-marca-olt`.
 5. Abra uma solicitação de pull para revisão.
 
-## Licença
+## 📜 Licença
 
 Este repositório é mantido pela comunidade e está sob a licença [MIT](LICENSE).
 
