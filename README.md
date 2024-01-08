@@ -155,3 +155,55 @@ We hope this repository becomes a valuable source of information about OLTs, hel
 
 
 
+
+
+
+
+
+
+
+
+
+# 🌐 OpenLine Terminals (OLTs) Repository
+
+## ℹ️ About OLTs
+
+Optical Line Terminals (OLTs) play a crucial role in high-speed and reliable data transmission in fiber optic networks. This repository aims to provide a comprehensive compilation of information, documentation, and resources related to various brands and models of OLTs.
+
+## 📂 Repository Structure
+
+The repository is organized into folders, each corresponding to a specific OLT brand. Within each folder, you will find detailed information about different models of that brand.
+
+### 🏷️ List of Brands
+
+1. **Huawei**
+    - [Huawei OLT-5000](./huawei/olt-5000/README.md)
+    - [Huawei OLT-8000](./huawei/olt-8000/README.md)
+    
+2. **ZTE**
+    - [ZTE ZXA10 C300](./zte/zxa10-c300/README.md)
+    - [ZTE ZXA10 C320](./zte/zxa10-c320/README.md)
+
+3. **Alcatel-Lucent**
+    - [Alcatel-Lucent ISAM FX](./alcatel-lucent/isam-fx/README.md)
+    - [Alcatel-Lucent 7360 ISAM FX-4](./alcatel-lucent/7360-isam-fx-4/README.md)
+
+4. **Cisco**
+    - [Cisco ME 4600 Series](./cisco/me-4600/README.md)
+    - [Cisco ME 4900 Series](./cisco/me-4900/README.md)
+
+## 🤝 How to Contribute
+
+If you have knowledge about OLTs or additional information about specific models, we appreciate your contributions. Follow these steps to contribute:
+
+1. Fork this repository.
+2. Create a branch for your changes: `git checkout -b feature/new-olt-brand`.
+3. Make your changes and commit: `git commit -m 'Adding information about OLT XYZ'`.
+4. Push your changes: `git push origin feature/new-olt-brand`.
+5. Open a pull request for review.
+
+## 📜 License
+
+This repository is community-maintained and is under the [MIT License](LICENSE).
+
+We hope this repository becomes a valuable source of information about OLTs, helping network engineers, researchers, and enthusiasts understand and enhance their fiber optic networks. Welcome to the OLT community! 🚀
